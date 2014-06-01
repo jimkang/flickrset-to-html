@@ -1,7 +1,9 @@
 flickrset-to-html
 =================
 
-This module grabs links to images from a specified Flickr set, generates a html that links to those images, and writes that html to stdout.
+Have a static blog and a Flickr account? Want a post that looks something like what [Exposure](https://exposure.co/) does? Well, I did, and so can you! You can run this to grab the HTML fragments for a photoset, and then post those fragments into your post, then use your pre-existing HTML knowledge to edit it to your satisfaction.
+
+Dry description: This module grabs links to images from a specified Flickr set, generates a html that links to those images, and writes that html to stdout.
 
 Installation
 ------------
