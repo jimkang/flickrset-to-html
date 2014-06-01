@@ -1,0 +1,26 @@
+{
+  "name": "flickrset-to-html",
+  "version": "0.1.0",
+  "description": "Grabs the photos from a Flickr set and creates html that links to them.",
+  "main": "flickrset-to-html.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/flickrset-to-html.git"
+  },
+  "keywords": [
+    "module",
+    "thing"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/flickrset-to-html/issues"
+  },
+  "homepage": "https://github.com/jimkang/flickrset-to-html",
+  "devDependencies": {},
+  "dependencies": {
+    "flickrapi": "~0.3.23",
+    "lodash": "~2.4.1"
+  }
+}
